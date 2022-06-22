@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Nadya Audina S Kurnia 👋
+
+  I graduated from Sebelas Maret University majored in Public Administration (GPA 3.64). The main core of the major that I took is being sensitive to problems in
+society and how to respond to them as a regulator. 
+  I also took Data Science bootcamp at Rakamin Academy and finished Virtual Internship at Kimia Farma. I added some skills such as: SQL, Python, Data Analytics, Data Visualization, and Machine Learning. I believe these knowledge that I am studying continuously can be used in various fields for now and in the future.
+
+📫 Reach me on LinkedIn (https://www.linkedin.com/in/nadyaaudina-sk/)
+
 
 <!--
 **nadyaaudina/nadyaaudina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
